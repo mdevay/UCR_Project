@@ -1,9 +1,5 @@
 {
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+
     "# Visualizing FBI Uniform Crime Reporting Data\n",
     "\n",
     "## Improving the usability of publicly available data to make informed policy decisions\n",
@@ -42,28 +38,3 @@
     "## Results:\n",
     "\n",
     "A proof of concept data dashboard was created via Dash/Plotly in python. Code for all data cleaning and the dashboard are included in this repo. Future iterations will use more granular data in order to extract additional insights, as well as model policy changes based on this data."
-   ]
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.7.4"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 2
-}
